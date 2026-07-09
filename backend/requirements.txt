@@ -1,0 +1,13 @@
+fastapi>=0.100.0
+uvicorn[standard]>=0.20.0
+python-multipart>=0.0.05
+tensorflow>=2.15.0
+keras>=3.0.0
+opencv-python-headless>=4.8.0
+numpy>=1.24.0
+python-jose[cryptography]>=3.3.0
+passlib[bcrypt]>=1.7.4
+bcrypt>=4.0.0
+pydantic>=2.0.0
+psycopg2-binary>=2.9.0
+SQLAlchemy>=2.0.0

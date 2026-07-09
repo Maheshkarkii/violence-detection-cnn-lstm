@@ -1,0 +1,16 @@
+{
+  "name": "Violence Detection System",
+  "short_name": "ViolenceDetect",
+  "description": "AI-powered violence detection in videos",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAFAFA",
+  "theme_color": "#0052FF",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
