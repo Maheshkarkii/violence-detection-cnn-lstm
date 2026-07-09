@@ -1,1 +1,1 @@
-export const API_URL = import.meta.env.VITE_API_URL || "https://violence-detection-api-mhzo.onrender.com"
+export const API_URL = import.meta.env.VITE_API_URL || "http://localhost:10000"
