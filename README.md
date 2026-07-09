@@ -62,7 +62,7 @@ Frontend (React/Vite)  <-- HTTPS -->  Backend (FastAPI)
 ```
 
 ## Deployment
-* **Frontend**: Coming Soon (Placeholder: `https://your-username.vercel.app`)
+* **Frontend**: [https://violence-detection-cnn-lstm.vercel.app/](https://violence-detection-cnn-lstm.vercel.app/)
 * **Backend**: Coming Soon (Placeholder: `https://your-backend.onrender.com`)
 
 ### Frontend (Vercel)

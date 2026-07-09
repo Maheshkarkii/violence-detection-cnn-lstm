@@ -68,7 +68,7 @@ else:
         "http://localhost:5173",
         "http://localhost:3000", 
         "http://127.0.0.1:5173",
-        "https://violence-detection-system-using-cnn.vercel.app",
+        "https://violence-detection-cnn-lstm.vercel.app",
         "https://violence-detection-api-mhzo.onrender.com"
     ]
 SECRET_KEY = os.getenv("SECRET_KEY", "violence-detection-secret-key-change-in-production-2024-v2")
